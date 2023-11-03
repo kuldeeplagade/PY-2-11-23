@@ -1,4 +1,5 @@
-'''a="The uper case method"
+#STRING METHODS
+a="The uper case method"
 print(a.upper())
 print(a)
 
@@ -25,7 +26,7 @@ print(mixed_case.startswith("A"))
 print(mixed_case.endswith("e"))  
 words = mixed_case.split()
 print(words)  
-print("".join(words).isalpha()) '''
+print("".join(words).isalpha()) 
 
 #MULTIPLE STRING METHOD 
 the_string = "North Dakota"

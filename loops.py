@@ -1,5 +1,5 @@
 #while loop
-'''dec_int = 10
+dec_int = 10
  
 while dec_int != 0:
     print(dec_int)
@@ -33,7 +33,7 @@ for num in input:
 #range with 3 arrgumnets
 input=range(6, -1, -2)
 for num in input:
-    print(num)'''
+    print(num)
 
 
 
